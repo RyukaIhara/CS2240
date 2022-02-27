@@ -83,3 +83,5 @@ $(".step05").click( function() {
 	$("#line-progress").css("width", "100%");
 	$(".analysis").addClass("active").siblings().removeClass("active");
 });
+
+
